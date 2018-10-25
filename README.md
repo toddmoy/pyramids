@@ -1,2 +1,0 @@
-# pyramids
-Created with CodeSandbox
